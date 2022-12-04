@@ -1,0 +1,1110 @@
+{
+    "audio_base_path": "./audio/0",
+    "audio_feature_path": "./train/audio_features_googlenet_caffe.pickle",
+    "image_base_path": "./images",
+    "image_feature_path": "./train/image_features_googlenet_caffe.pickle",
+    "data": [
+        {
+            "audio": [
+                "002.Laysan_Albatross/Laysan_Albatross_0002_1027_0.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0002_1027_1.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0002_1027_2.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0002_1027_3.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0002_1027_4.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0002_1027_5.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0002_1027_6.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0002_1027_7.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0002_1027_8.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0002_1027_9.wav"
+            ],
+            "class": "002.Laysan_Albatross",
+            "idx": 0,
+            "image": "002.Laysan_Albatross/Laysan_Albatross_0002_1027.jpg",
+            "text": [
+                "a bird with a very long wing span and a long pointed beak.",
+                "the long-beaked bird has a white body with long brown wings.",
+                "this is a white bird with brown wings and a large pointy beak.",
+                "this large bird has long bill, a white breast, belly & head and a black back & wings.",
+                "bird has an extremely long wingspan with a darker top and white belly and head.",
+                "this bird has wings that are brown and has a white belly",
+                "this bird has extended wings and a white head and body.",
+                "this bird is white and brown in color, with a long curved beak.",
+                "this white and grey bird has an enormous wing span.",
+                "this bird has wings that are brown and has a white body"
+            ]
+        },
+        {
+            "audio": [
+                "002.Laysan_Albatross/Laysan_Albatross_0003_1033_0.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0003_1033_1.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0003_1033_2.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0003_1033_3.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0003_1033_4.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0003_1033_5.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0003_1033_6.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0003_1033_7.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0003_1033_8.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0003_1033_9.wav"
+            ],
+            "class": "002.Laysan_Albatross",
+            "idx": 1,
+            "image": "002.Laysan_Albatross/Laysan_Albatross_0003_1033.jpg",
+            "text": [
+                "the bird has webbed feet that are pale pink as well as skinny tarsus.",
+                "a large sea bird with blue feat and a large orange bill. it's body and head are white and wings are dark grey to black.",
+                "this white bird has a long, curved-at-the-end beak and webbed feet.",
+                "this large sea bird is white with black wings, has a long orange bill that curves downward at the end with a black tip, and its feet are pink.",
+                "this bird has a white crown, a long neck, and an orange bill",
+                "this bird has wings that are black and has a yellow bill",
+                "this bird has wings that are black and has a white belly",
+                "this large bird is mostly white with dark grey wings, light purplish feet, and a long orange beak.",
+                "this large bird has white feathers and webbed feet.",
+                "this white and brown bird has a long bill and webbed feet."
+            ]
+        },
+        {
+            "audio": [
+                "002.Laysan_Albatross/Laysan_Albatross_0082_524_0.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0082_524_1.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0082_524_2.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0082_524_3.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0082_524_4.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0082_524_5.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0082_524_6.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0082_524_7.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0082_524_8.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0082_524_9.wav"
+            ],
+            "class": "002.Laysan_Albatross",
+            "idx": 2,
+            "image": "002.Laysan_Albatross/Laysan_Albatross_0082_524.jpg",
+            "text": [
+                "the large bird has a white neck, black body, and a long yellow beak curved downward.",
+                "this larger sized bird has a long, white neck, brownish black wings and tail feathers and an orange beak that tips downward.",
+                "a large bird with white feathers covering its head, neck and throat, with a grey cheek, and brown feathers covering the rest of its body.",
+                "medium to large grey and white bird with long orange and black beak",
+                "this bird is white and black in color with a long curved beak, and black eye rings.",
+                "the bird has a white head and thrat with a smokey gray on the eyes and the rest of the body.",
+                "this bird has a long orange beak that curves at the end, a long neck, white head and chest with a dark brown body.",
+                "this bird is white with grey and has a long, pointy beak.",
+                "this bird is white and brown in color, with a curved orange beak.",
+                "a large bird with a white breast and pointed beak."
+            ]
+        },
+        {
+            "audio": [
+                "002.Laysan_Albatross/Laysan_Albatross_0044_784_0.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0044_784_1.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0044_784_2.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0044_784_3.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0044_784_4.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0044_784_5.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0044_784_6.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0044_784_7.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0044_784_8.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0044_784_9.wav"
+            ],
+            "class": "002.Laysan_Albatross",
+            "idx": 3,
+            "image": "002.Laysan_Albatross/Laysan_Albatross_0044_784.jpg",
+            "text": [
+                "this bird is colored brown on its wings and back while its head and rump are all white.",
+                "a bird diving with a yellow beak, brown wings, and a white head and neck.",
+                "the bird with big black wings, white crown and head, and brown breast",
+                "this is a large brown bird with a white rump and a white head.",
+                "this bird is white and brown in color with a long beak, and white eye rings.",
+                "this bird is brown with white and has a long, pointy beak.",
+                "this bird has wings that are brown and has a long yellow bill",
+                "this bird has wings that are brown and has a white nape",
+                "this bird has wings that are brown and has a white belly",
+                "this bird has a brown back, wings and white crown"
+            ]
+        },
+        {
+            "audio": [
+                "002.Laysan_Albatross/Laysan_Albatross_0070_788_0.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0070_788_1.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0070_788_2.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0070_788_3.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0070_788_4.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0070_788_5.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0070_788_6.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0070_788_7.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0070_788_8.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0070_788_9.wav"
+            ],
+            "class": "002.Laysan_Albatross",
+            "idx": 4,
+            "image": "002.Laysan_Albatross/Laysan_Albatross_0070_788.jpg",
+            "text": [
+                "a large bird with white head and brown wing bars and a long narrow yellow beak that is hooked at the end.",
+                "a white albatross with brown wings and a peach colored bony beak.",
+                "this bird has a long orange and black beak, with black spots around its eyes and a brown back, with a basic white head.",
+                "this bird has a white breast and a really long bill.",
+                "a large light blue bird, with dark eyes and a yellow long pointed beak",
+                "this bird is all white and has a long, pointy beak.",
+                "this is a large white bird with a brown colored back and a large light orange bill",
+                "this bird has wings that are brown and has an orange bill",
+                "this bird has a long tan bill with a white crown and white throat.",
+                "this bird has wings that are brown and has a long neck"
+            ]
+        },
+        {
+            "audio": [
+                "002.Laysan_Albatross/Laysan_Albatross_0050_870_0.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0050_870_1.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0050_870_2.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0050_870_3.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0050_870_4.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0050_870_5.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0050_870_6.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0050_870_7.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0050_870_8.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0050_870_9.wav"
+            ],
+            "class": "002.Laysan_Albatross",
+            "idx": 5,
+            "image": "002.Laysan_Albatross/Laysan_Albatross_0050_870.jpg",
+            "text": [
+                "this is a black and white bird with a gray bill and orange in the outer rectrices",
+                "a large, gray bird with black wings, orange feet, and a yellow bill.",
+                "this bird has a gray belly and breast with a long hooked bill.",
+                "this is a white bird with black and white wings and a long and pointy black beak.",
+                "this bird has a white overall body color with lots of streaks and patches of black on its wings.",
+                "this is a white and gray bird that has webbed feet and a beak that turns down at the tip.",
+                "this bird has orange webbed feet, a black tail, grey belly and a long yellow bill with a hook at the end.",
+                "this bird has wings that are black and white and has a yellow bill",
+                "this large bird has a white throat and belly and broad wings which are white with black streaks.",
+                "this bird has a white breast, with a orange bill."
+            ]
+        },
+        {
+            "audio": [
+                "002.Laysan_Albatross/Laysan_Albatross_0071_792_0.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0071_792_1.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0071_792_2.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0071_792_3.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0071_792_4.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0071_792_5.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0071_792_6.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0071_792_7.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0071_792_8.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0071_792_9.wav"
+            ],
+            "class": "002.Laysan_Albatross",
+            "idx": 6,
+            "image": "002.Laysan_Albatross/Laysan_Albatross_0071_792.jpg",
+            "text": [
+                "the bird has a white head and rump with grey body and wings.",
+                "this bird is white and black in color with a long curved beak and black eye rings.",
+                "this bird is medium sized and has long, pointy wings with black and white primaries. it is mostly dark grey in color with a white nape and crown. the inner and outer rectrices are black.",
+                "this gray winged bird has a white head and rump and black retrices.",
+                "this bird has a black tipped bill with a white crown and greyish black wingbars.",
+                "this bird has a white head, nape, neck, throat, rump, black inner and outer retrices, and grey covering its wings.",
+                "this bird has brown, grey and black secondaries,a white crown and rump and black inner and outer retrices.",
+                "this large bird has with a large wing span and a white colored head.",
+                "this bird has wings that are grey and has a white belly",
+                "this bird has wings that are black and has a white belly"
+            ]
+        },
+        {
+            "audio": [
+                "002.Laysan_Albatross/Laysan_Albatross_0053_543_0.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0053_543_1.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0053_543_2.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0053_543_3.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0053_543_4.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0053_543_5.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0053_543_6.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0053_543_7.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0053_543_8.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0053_543_9.wav"
+            ],
+            "class": "002.Laysan_Albatross",
+            "idx": 7,
+            "image": "002.Laysan_Albatross/Laysan_Albatross_0053_543.jpg",
+            "text": [
+                "this bird has a mostly white body with black around the wings and a tan bill.",
+                "this bird in flight has a white head, breast, side and flank and very dark wingbars.",
+                "a large white bird with black wings and rectricles and a yellow beak.",
+                "this bird is white with black wings and has a long, pointy beak.",
+                "a big white bird with long black and white wings and a white beak.",
+                "a white bird with black feathers on its wing with a long bill and black eyes.",
+                "this bird's tarsi and feet have folded into the contour of it's white body, which contrasts to its long, narrow, angled black wings.",
+                "this bird has wings that are black and has a white belly",
+                "this bird has a pale orange colored bill and a white belly.",
+                "this large bird has a white body and large wingspan with a black eye ring and a long bill."
+            ]
+        },
+        {
+            "audio": [
+                "002.Laysan_Albatross/Laysan_Albatross_0081_800_0.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0081_800_1.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0081_800_2.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0081_800_3.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0081_800_4.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0081_800_5.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0081_800_6.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0081_800_7.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0081_800_8.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0081_800_9.wav"
+            ],
+            "class": "002.Laysan_Albatross",
+            "idx": 8,
+            "image": "002.Laysan_Albatross/Laysan_Albatross_0081_800.jpg",
+            "text": [
+                "this bird has brown on its wings and back with white on its head and belly.",
+                "a flying albatross with big and long black wings and white body has orange beak and legs.",
+                "a large with long wingspan, and a white belly, and a long bill.",
+                "this bird is black with white on its stomach and has a long, pointy beak.",
+                "the bird has a light colored belly and head, dark colored wings and a long beak that curves downwards to a point.",
+                "this bird has wings that are brown and has a white belly",
+                "a bird with an orange bill, black eyerings and brown secondaries.",
+                "this bird has wings that are brown and has a yellow bill",
+                "this bird has large black wings and a white underbelly as well as a medium sized beak.",
+                "a medium sized bird, with black wings and back, and a pointed bill."
+            ]
+        },
+        {
+            "audio": [
+                "002.Laysan_Albatross/Laysan_Albatross_0001_545_0.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0001_545_1.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0001_545_2.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0001_545_3.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0001_545_4.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0001_545_5.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0001_545_6.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0001_545_7.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0001_545_8.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0001_545_9.wav"
+            ],
+            "class": "002.Laysan_Albatross",
+            "idx": 9,
+            "image": "002.Laysan_Albatross/Laysan_Albatross_0001_545.jpg",
+            "text": [
+                "a white bird with black tipped wings and a long grey beak.",
+                "this bird has a white chest with a long pointed white beak.",
+                "this bird has a curved white bill, a white belly, and black primaries.",
+                "this white bird has black along the ends of its wings and a pale, long beak.",
+                "this medium sized to large bird has a white belly, breast, head and tail with a long, pointed beak.",
+                "the bird has a long white bill and long black secondaries.",
+                "the large bird has a long light colored bill, a white rump, and a white belly.",
+                "this large bird has a white head and belly, white wings with black on the ends of the feathers, and a white tail.",
+                "this bird has wings that are black and white and has a long bill",
+                "this bird is white with black and has a long, pointy beak."
+            ]
+        },
+        {
+            "audio": [
+                "002.Laysan_Albatross/Laysan_Albatross_0023_1059_0.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0023_1059_1.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0023_1059_2.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0023_1059_3.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0023_1059_4.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0023_1059_5.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0023_1059_6.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0023_1059_7.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0023_1059_8.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0023_1059_9.wav"
+            ],
+            "class": "002.Laysan_Albatross",
+            "idx": 10,
+            "image": "002.Laysan_Albatross/Laysan_Albatross_0023_1059.jpg",
+            "text": [
+                "the bill amd the chest of the bird is white, while the secondary and primary wings are black.",
+                "a large bird with a white belly and face, black back and wings, and peach bill.",
+                "a large bird with with a white crown and neck with a white side and belly and large hook for a bill",
+                "this white bird features a thick, long orange beak and dark shades around its eyes.",
+                "this is a large bird with a white chest and head and black wings.",
+                "this particular bird has a white belly and breasts and a black eyebrow",
+                "this bird has wings that are black and has a white belly",
+                "this bird has wings that are black and has a white belly",
+                "this is a large black and white bird with long tarsus and very long bill.",
+                "a white bird with black wings and a thick beak."
+            ]
+        },
+        {
+            "audio": [
+                "002.Laysan_Albatross/Laysan_Albatross_0065_809_0.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0065_809_1.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0065_809_2.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0065_809_3.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0065_809_4.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0065_809_5.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0065_809_6.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0065_809_7.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0065_809_8.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0065_809_9.wav"
+            ],
+            "class": "002.Laysan_Albatross",
+            "idx": 11,
+            "image": "002.Laysan_Albatross/Laysan_Albatross_0065_809.jpg",
+            "text": [
+                "the bird has a white breast and nape with black secondaries, and it has a tan bill.",
+                "an aquatic bird with longer, hooked at end bill and white head, neck, and breast, with gray back and wings.",
+                "birds head stomach is white and the birds back and wings are grey,beek is beige flat and long.",
+                "this large bird has a white body, grey wing, and long hooked yellow bill.",
+                "this bird is white and grey in color with a curved beak, and black eye rings.",
+                "this bird has wings that are grey and has a white belly",
+                "this bird has wings that are grey and has a white belly",
+                "this is a large bird with a beak that curves downward, and a long white neck and breast.",
+                "this bird has wings that are grey and has a white belly",
+                "this bird has a white crown, grey primaries, and a white belly."
+            ]
+        },
+        {
+            "audio": [
+                "002.Laysan_Albatross/Laysan_Albatross_0061_563_0.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0061_563_1.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0061_563_2.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0061_563_3.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0061_563_4.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0061_563_5.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0061_563_6.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0061_563_7.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0061_563_8.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0061_563_9.wav"
+            ],
+            "class": "002.Laysan_Albatross",
+            "idx": 12,
+            "image": "002.Laysan_Albatross/Laysan_Albatross_0061_563.jpg",
+            "text": [
+                "the head and rump of the bird is white while the wings and body of the bird are dark brown.",
+                "the bird has a white head, side and belly but it's wing is in black and brown shades.",
+                "the bird has a white crown and a yellow bill that is long.",
+                "this large bird has a white body, black wing and tail, and long hooked bill.",
+                "bird with yellow beak, gray feet, white crown and nape, and black wings, inner and outer rectrices",
+                "this bird has a white crown along with black, brown, and gray wingbars.",
+                "this bird has wings that are black and has a white belly",
+                "a black and white bird with a large wing span and yellow beak.",
+                "the bird has a head that is white in color and a back that is brown in color.",
+                "this bird has a white head, with a long orange bill."
+            ]
+        },
+        {
+            "audio": [
+                "002.Laysan_Albatross/Laysan_Albatross_0085_564_0.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0085_564_1.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0085_564_2.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0085_564_3.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0085_564_4.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0085_564_5.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0085_564_6.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0085_564_7.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0085_564_8.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0085_564_9.wav"
+            ],
+            "class": "002.Laysan_Albatross",
+            "idx": 13,
+            "image": "002.Laysan_Albatross/Laysan_Albatross_0085_564.jpg",
+            "text": [
+                "this bird has brown wings and a white head with an orange beak.",
+                "this medium sized bird has a white nape and crown, black pointed primaries with white uppertail coverts.",
+                "a large bird with an expansive wingspan, this bird has a white head, throat, belly , breast ,vent and rump, dark brown and black wings, and black rectrices",
+                "black and white bird with white on his end side and head with big wings and a large orange bill.",
+                "this bird has a white body, brown wings and an orange beak.",
+                "this bird is black with white and has a long, pointy beak.",
+                "flying high, the chocolate brown wings carry a bird with a white crown and rump.",
+                "this bird has wings that are black and has an orange bill",
+                "this bird has a white crown, yellow beak and brown wings.",
+                "this bird has a white head and abdomen, with dark brown wings and back."
+            ]
+        },
+        {
+            "audio": [
+                "002.Laysan_Albatross/Laysan_Albatross_0005_565_0.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0005_565_1.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0005_565_2.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0005_565_3.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0005_565_4.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0005_565_5.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0005_565_6.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0005_565_7.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0005_565_8.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0005_565_9.wav"
+            ],
+            "class": "002.Laysan_Albatross",
+            "idx": 14,
+            "image": "002.Laysan_Albatross/Laysan_Albatross_0005_565.jpg",
+            "text": [
+                "a bird with a curved and hooked, large bill, black eyes, white breast and brown primaries and secondaries, and a large head.",
+                "this large bird is white with black wings that have orange accents, along with an orange beak and touch of black on the tips of the tail feathers.",
+                "the bird is white, though the wings and tip of the tail are brown and grey.",
+                "this white bird features brown wings and a long, orange beak with black shading around its black eyes.",
+                "this bird is large with a white head and chest and brown wings and an orange beak.",
+                "this bird has wings that are grey and has a long orange bill",
+                "this bird is white with grey and has a long, pointy beak.",
+                "this bird has wings that are brown and has a white belly",
+                "this bird has a white crown as well as a orange bill",
+                "this bird has a white body and head, brown wings, and a long slightly curved orange beak."
+            ]
+        },
+        {
+            "audio": [
+                "002.Laysan_Albatross/Laysan_Albatross_0060_777_0.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0060_777_1.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0060_777_2.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0060_777_3.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0060_777_4.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0060_777_5.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0060_777_6.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0060_777_7.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0060_777_8.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0060_777_9.wav"
+            ],
+            "class": "002.Laysan_Albatross",
+            "idx": 15,
+            "image": "002.Laysan_Albatross/Laysan_Albatross_0060_777.jpg",
+            "text": [
+                "the large white bird has a long bill and long throat.",
+                "this is a white bird with grey wings and an orange beak.",
+                "a white bird with dark gray wings, gray cheek patches, black eyes and a light yellow bill.",
+                "the birds has a white overall body color with a black set of wings and light orange bill.",
+                "this is a white bird with a brown wing and an orange beak.",
+                "this is a white bird with brown wings and a light orange beak that is curved down.",
+                "this bird has wings that are black and has a white belly",
+                "this bird is white with grey and has a long, pointy beak.",
+                "this bird has wings that are black and has a white belly and long neck",
+                "this bird has a really long orange bill that curves downward, with a white breast."
+            ]
+        },
+        {
+            "audio": [
+                "002.Laysan_Albatross/Laysan_Albatross_0055_570_0.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0055_570_1.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0055_570_2.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0055_570_3.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0055_570_4.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0055_570_5.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0055_570_6.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0055_570_7.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0055_570_8.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0055_570_9.wav"
+            ],
+            "class": "002.Laysan_Albatross",
+            "idx": 16,
+            "image": "002.Laysan_Albatross/Laysan_Albatross_0055_570.jpg",
+            "text": [
+                "this peculiar looking bird has striking feathers that look more like fur with white tips and a very long, hooked beak.",
+                "a bird that looks like it is partly feathers and partly fur and is grey witha large beak.",
+                "this fuzzy bird has furry bits from its crown to its back and belly with intermingled white hairs that give a lightning cloud effect, and a long grey bill.",
+                "this bird is dark gray with some beige intermixed in the crown and wings.",
+                "this is a brown bird with a white eyering and a long downward pointing beak.",
+                "a large bird with a long bill and a white cheek patch",
+                "this bird has a brown crown as well as a long grey bill",
+                "this bird has white eye ring, grey and brown secondaries and a white flank.",
+                "this bird has long black bill that is curved downward at the end.",
+                "this bird is gray and brown in color, and has a large curved beak."
+            ]
+        },
+        {
+            "audio": [
+                "002.Laysan_Albatross/Laysan_Albatross_0025_571_0.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0025_571_1.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0025_571_2.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0025_571_3.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0025_571_4.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0025_571_5.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0025_571_6.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0025_571_7.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0025_571_8.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0025_571_9.wav"
+            ],
+            "class": "002.Laysan_Albatross",
+            "idx": 17,
+            "image": "002.Laysan_Albatross/Laysan_Albatross_0025_571.jpg",
+            "text": [
+                "a bird with a white body, medium brown wings and tail, and a medium long neck.",
+                "aquatic bird with longer fish-catching orange bill, white neck, breast, and legs, and dark smoke wings and back, with a longer neck.",
+                "big bird with a long white neck that changes at its nape and has dark brown feathers but grey circle around its eyes.",
+                "this bird is white with grey on its wings and has a long, pointy beak.",
+                "this bird is mostly white grey wings, and a long snubbed bill.",
+                "this bird is white with black and has a long, pointy beak.",
+                "the bird has a long white throat and yellow bill that is curved.",
+                "a large gray and white bird with a long neck, a short tail and a wide beak with a gray tip.",
+                "this bird has wings that are black and has a white belly",
+                "this is a large white bird, with dark grey wings, and a curved bill."
+            ]
+        },
+        {
+            "audio": [
+                "002.Laysan_Albatross/Laysan_Albatross_0080_821_0.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0080_821_1.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0080_821_2.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0080_821_3.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0080_821_4.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0080_821_5.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0080_821_6.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0080_821_7.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0080_821_8.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0080_821_9.wav"
+            ],
+            "class": "002.Laysan_Albatross",
+            "idx": 18,
+            "image": "002.Laysan_Albatross/Laysan_Albatross_0080_821.jpg",
+            "text": [
+                "this large bird has very large brown wings and a ling white torso that give it an elongated appearance.",
+                "this is a white bird with brown wings and a large orange beak.",
+                "this bird has a long, thick pink bill with a black tip and mostly white plumage with brown on the coverts, secondaries & primaries.",
+                "this bird has a long and slightly curved orange bill, a white breast, belly, rump and crown.",
+                "a white flying albatross with his long and strong brown wings, and has an orange beak with a gray tip.",
+                "this bird is white with brown and has a long, pointy beak.",
+                "this white bird has brown wings and a light pink beak with gray on its end that's curved down",
+                "this bird has a white body, brown and white wings, a short tail, and a long beak with a curved gray tip.",
+                "this bird has wings that are brown and has a white belly",
+                "the bird has a white belly and breast, brown wings, and a long orange bill."
+            ]
+        },
+        {
+            "audio": [
+                "002.Laysan_Albatross/Laysan_Albatross_0092_834_0.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0092_834_1.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0092_834_2.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0092_834_3.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0092_834_4.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0092_834_5.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0092_834_6.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0092_834_7.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0092_834_8.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0092_834_9.wav"
+            ],
+            "class": "002.Laysan_Albatross",
+            "idx": 19,
+            "image": "002.Laysan_Albatross/Laysan_Albatross_0092_834.jpg",
+            "text": [
+                "this bire has a white body with yellow bill, it has black on top of its wings and body.",
+                "this is a white bird with a large downward pointing orange beak.",
+                "a seagull looking bird with an orange beak and a white body.",
+                "bird with long downward rounded yellow bill, white body, and black wings.",
+                "this white gull has stark black superciliary areas and a long, hooked, faded yellow beak.",
+                "this bird has a long beak and white feathers covering its head and belly with a greyish black cheek patch.",
+                "this is a white bird with gray wings and a light pink beak that curved down at the tip.",
+                "a distinguishing features on this plain white and brown feathered bird, the bill is long and curves downwards.",
+                "this bird has a orange and black bill and a white breast",
+                "the bird has a long bill with a white crown with black wings."
+            ]
+        },
+        {
+            "audio": [
+                "002.Laysan_Albatross/Laysan_Albatross_0013_910_0.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0013_910_1.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0013_910_2.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0013_910_3.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0013_910_4.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0013_910_5.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0013_910_6.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0013_910_7.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0013_910_8.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0013_910_9.wav"
+            ],
+            "class": "002.Laysan_Albatross",
+            "idx": 20,
+            "image": "002.Laysan_Albatross/Laysan_Albatross_0013_910.jpg",
+            "text": [
+                "this bird has a bright white head, throat, breast and belly, dark grey wings and tail, and a long beak with a hooked upper beak, the area in front of the eye is black.",
+                "a large bird with a white head, neck, nape, throat, and breast, with black feathers covering the rest of its body except for white tips on some feathers.",
+                "this bird is black with white on its chest and head and has a long, pointy beak.",
+                "this bird has a white head and breast, with black covering the rest of its body.",
+                "this bird has a white head and chest and a beak that curves down.",
+                "this bird has wings that are black with a white belly",
+                "this bird is white and black in color, with a large white beak.",
+                "a white and black bird with black eyes sitting on the ground.",
+                "bird with white beak and curved at the end, crown, nape, throat, breast, belly and abdomen are white, primaries and secondaries are black.",
+                "this bird has a white breast with a long bill."
+            ]
+        },
+        {
+            "audio": [
+                "002.Laysan_Albatross/Laysan_Albatross_0091_602_0.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0091_602_1.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0091_602_2.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0091_602_3.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0091_602_4.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0091_602_5.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0091_602_6.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0091_602_7.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0091_602_8.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0091_602_9.wav"
+            ],
+            "class": "002.Laysan_Albatross",
+            "idx": 21,
+            "image": "002.Laysan_Albatross/Laysan_Albatross_0091_602.jpg",
+            "text": [
+                "this seagull is black and white, with a slightly hooked beak.",
+                "a bird with a large, yellow, downward curved bill and white covering its body.",
+                "this large white seagull has black tips on it's wings with a long white beak.",
+                "this larger bird is mostly white but has black wings",
+                "this large bird has a white belly, breast, and crown with a long hooked bill.",
+                "this large waterbird has an all white body with black edging on its wings and tail and a long slightly hooked beak.",
+                "the bird has a large white body with large wings.",
+                "this bird has a white body, a large black and white wing, a short wide beak with a gray tip that curves downward.",
+                "this bird has a white body with the black wings it also has a yellowish beak and large eyes it also has very large wings",
+                "this sea bird has broad black and white wings for soaring, is white throughout the rest of its body except for its outer rectrice portion of the tail feathers."
+            ]
+        },
+        {
+            "audio": [
+                "002.Laysan_Albatross/Laysan_Albatross_0102_611_0.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0102_611_1.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0102_611_2.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0102_611_3.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0102_611_4.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0102_611_5.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0102_611_6.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0102_611_7.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0102_611_8.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0102_611_9.wav"
+            ],
+            "class": "002.Laysan_Albatross",
+            "idx": 22,
+            "image": "002.Laysan_Albatross/Laysan_Albatross_0102_611.jpg",
+            "text": [
+                "this bird has a white crown, a white nape, a white throat, and its wings are dark brown.",
+                "the bird has white crown, head and abdomen but black to dark brown coverts and retrices.",
+                "the body of the bird is white, the beak is orange and long, and the wings are black.",
+                "this bird is flying through the air and has a large wing span.",
+                "this long-billed bird is solid white from breast to flank, with black wings and rectrices.",
+                "a black and white bird flying through the air.",
+                "the bird has a white head and a bill that is yellow in color.",
+                "this is a large bird with a white body and black wings.",
+                "this bird has a large white body, with brown wings and curved bill.",
+                "this bird has wings that are brown and has a white belly"
+            ]
+        },
+        {
+            "audio": [
+                "002.Laysan_Albatross/Laysan_Albatross_0099_869_0.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0099_869_1.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0099_869_2.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0099_869_3.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0099_869_4.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0099_869_5.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0099_869_6.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0099_869_7.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0099_869_8.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0099_869_9.wav"
+            ],
+            "class": "002.Laysan_Albatross",
+            "idx": 23,
+            "image": "002.Laysan_Albatross/Laysan_Albatross_0099_869.jpg",
+            "text": [
+                "this colorful bird has a white belly and breast, brown wings, and a small bird with white head and nape.",
+                "this bird is white and black in color with a long dull ended beak and black eye rings.",
+                "this bird has a long, curved, orange bill, black primaries, and a white head, throat, and breast.",
+                "this is a white bird with black wings and an orange beak.",
+                "this bird has a long wingspan, a white belly, and a yellow bill",
+                "this bird is black with white and has a long, pointy beak.",
+                "this bird has wings that are black and has a white bill",
+                "this bird has a white belly and a large wing span.",
+                "this is a white bird with gray back and wings and a pale orange beak that curves downward at the tip.",
+                "this bird has wings that are black and has a long bill"
+            ]
+        },
+        {
+            "audio": [
+                "002.Laysan_Albatross/Laysan_Albatross_0017_614_0.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0017_614_1.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0017_614_2.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0017_614_3.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0017_614_4.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0017_614_5.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0017_614_6.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0017_614_7.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0017_614_8.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0017_614_9.wav"
+            ],
+            "class": "002.Laysan_Albatross",
+            "idx": 24,
+            "image": "002.Laysan_Albatross/Laysan_Albatross_0017_614.jpg",
+            "text": [
+                "a bird with a very large, hooked bill with black tip and all white plumage across its body.",
+                "a large white bird with a long curved bill. an all white body, black eye rings, and black wing feathers.",
+                "a larger sized bird with a glowing white body and a large orange beak.",
+                "this large white bird has a large yellow beak which points down towards the end.",
+                "the bird is very large and has a white belly, breast, and head with a long orange beak.",
+                "a long beaked bird with mostly white and black feathers.",
+                "the bird has a white belly, long peach bill that is curved and a white crown.",
+                "this bird has wings that are black and has a long bill",
+                "a large bird with a white breast, throat, and head with black eye rings and a large pointed beak.",
+                "a pale beak and smokey looking eyebrows on this white breasted bird are striking."
+            ]
+        },
+        {
+            "audio": [
+                "002.Laysan_Albatross/Laysan_Albatross_0047_619_0.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0047_619_1.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0047_619_2.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0047_619_3.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0047_619_4.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0047_619_5.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0047_619_6.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0047_619_7.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0047_619_8.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0047_619_9.wav"
+            ],
+            "class": "002.Laysan_Albatross",
+            "idx": 25,
+            "image": "002.Laysan_Albatross/Laysan_Albatross_0047_619.jpg",
+            "text": [
+                "a bird with a white belly, and black and white wingbars with a black outer retrices",
+                "a large bird with a white belly, black and white wings with a long beak.",
+                "this bird has a white body, black eyes, light gray beak and feet, white and black coloring on the underside of the wings and black inner and outer rectrices.",
+                "this bird has really big wings and has a white belly.",
+                "this flying bird is white with a long curved white bill",
+                "this particular bird has long black wings and a white belly",
+                "this bird has wings that are black and white and has a long bill",
+                "this bird is black with white and has a long, pointy beak.",
+                "this bird has wings that are black and has a white belly",
+                "this bird is white and black in color, and has a light colored beak."
+            ]
+        },
+        {
+            "audio": [
+                "002.Laysan_Albatross/Laysan_Albatross_0035_876_0.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0035_876_1.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0035_876_2.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0035_876_3.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0035_876_4.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0035_876_5.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0035_876_6.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0035_876_7.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0035_876_8.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0035_876_9.wav"
+            ],
+            "class": "002.Laysan_Albatross",
+            "idx": 26,
+            "image": "002.Laysan_Albatross/Laysan_Albatross_0035_876.jpg",
+            "text": [
+                "large winged water bird with a white body and yellow curved bill.",
+                "all white medium sized bird bird with yellow beak",
+                "the white bird is large and has black eyes and an orage hooked nose and orange feet.",
+                "a larger sized bird that is mostly white with dark grey wings",
+                "this bird is white in color with a curved orange beak, and white eye rings.",
+                "a large bird containing an all white body, red feet, and grey and white secondaries and coverts.",
+                "this bird is white in color, with a yellow beak.",
+                "this large bird has a very long wingspan and an orange beak.",
+                "this bird has a white crown as well as a yellow bill",
+                "this bird has a short yellow beak, an all white head and belly, and wings that are white underneath and grey on top."
+            ]
+        },
+        {
+            "audio": [
+                "002.Laysan_Albatross/Laysan_Albatross_0098_621_0.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0098_621_1.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0098_621_2.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0098_621_3.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0098_621_4.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0098_621_5.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0098_621_6.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0098_621_7.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0098_621_8.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0098_621_9.wav"
+            ],
+            "class": "002.Laysan_Albatross",
+            "idx": 27,
+            "image": "002.Laysan_Albatross/Laysan_Albatross_0098_621.jpg",
+            "text": [
+                "a bird with very fluffy feathers on its crown, chest belly and sides.",
+                "bird has brown body feathers, brown breast feathers, and brown beak",
+                "the bird has a black eyering and a large curved bill.",
+                "small to medium brown bird with medium brown tarsus and long brown beak",
+                "this fluffy brown bird has slight white accents throughout its coloring, and a long black bill.",
+                "this bird is brown with whtie and has a long, pointy beak.",
+                "this particular bird has a belly that is brown and tan and white",
+                "this particular bird has a belly that is brown and white",
+                "this is a strange looking brown bird who has a long pointy beak and appears very fuzzy.",
+                "this bird has frizzy black feathers with white flecks throughout, and a long black bill that points downward at the end."
+            ]
+        },
+        {
+            "audio": [
+                "002.Laysan_Albatross/Laysan_Albatross_0088_883_0.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0088_883_1.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0088_883_2.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0088_883_3.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0088_883_4.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0088_883_5.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0088_883_6.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0088_883_7.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0088_883_8.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0088_883_9.wav"
+            ],
+            "class": "002.Laysan_Albatross",
+            "idx": 28,
+            "image": "002.Laysan_Albatross/Laysan_Albatross_0088_883.jpg",
+            "text": [
+                "a close up of a bird face with a large downward curved yellow beak, the head and chest are white",
+                "a white bird with an orange beak and dark black eyes.",
+                "the bird is white with a curved orange beak and small black eyes.",
+                "bird with brown, gray and black beak that is fat and curved at the tip, black eye, white eye and throat",
+                "this is a white bird with a long and pointy orange beak.",
+                "this bird has a long orange beak with a patch of blue and black at the tip",
+                "this particular bird has a belly that is white and an orange beak",
+                "a large grey bird, with a white head and belly, and a large curved bill.",
+                "this bird has white crown, breast, and throat, with a crooked bill, and black wings.",
+                "this particular bird has a belly that is white and gray"
+            ]
+        },
+        {
+            "audio": [
+                "002.Laysan_Albatross/Laysan_Albatross_0034_628_0.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0034_628_1.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0034_628_2.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0034_628_3.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0034_628_4.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0034_628_5.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0034_628_6.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0034_628_7.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0034_628_8.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0034_628_9.wav"
+            ],
+            "class": "002.Laysan_Albatross",
+            "idx": 29,
+            "image": "002.Laysan_Albatross/Laysan_Albatross_0034_628.jpg",
+            "text": [
+                "the medium sized bird has black wings and tails, white head and belly, and a yellow downward curved beak.",
+                "this is a medium sized white bird with dark gray wings and tail and a yellow beak that curves down at the tip.",
+                "the bird has a curved yellow bill, small black eyering and small feet.",
+                "a bird with a white and orange bill and dark colored wings.",
+                "this large bird has a white body, black wing, and a long hooked bill.",
+                "this bird is white with black and has a long, pointy beak.",
+                "this bird has a white head, throat belly and breast, and black coverts.",
+                "this particular bird has a belly that is white and gray",
+                "a large white bird with black wings, a short tail, white legs, and a long beak with a downward curve.",
+                "this bird is white and black in color, and has a orange beak."
+            ]
+        },
+        {
+            "audio": [
+                "002.Laysan_Albatross/Laysan_Albatross_0104_630_0.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0104_630_1.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0104_630_2.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0104_630_3.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0104_630_4.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0104_630_5.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0104_630_6.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0104_630_7.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0104_630_8.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0104_630_9.wav"
+            ],
+            "class": "002.Laysan_Albatross",
+            "idx": 30,
+            "image": "002.Laysan_Albatross/Laysan_Albatross_0104_630.jpg",
+            "text": [
+                "bird with brown feathers and a white tail and head with a long orange beak",
+                "a medium bird with long orange bill and a black eyebrow and eyering also having a distinct brown in the wingspan.",
+                "this bird has wide dark brown wings, a white body, and a large, yellow bill.",
+                "this bird with brown wings has a long beak and a short tail.",
+                "this bird has long wings which are brown and a long beak.",
+                "this bird has brown wings and a white head, it's orange beak is long and rounded at the end.",
+                "a medium white bird with long, brown wings and long, yellow bill.",
+                "this bird has wings that are brown and has a white body and long bill",
+                "this bird is brown with white and has a long, pointy beak.",
+                "this bird has wings that are brown and has an orange bill"
+            ]
+        },
+        {
+            "audio": [
+                "002.Laysan_Albatross/Laysan_Albatross_0058_637_0.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0058_637_1.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0058_637_2.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0058_637_3.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0058_637_4.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0058_637_5.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0058_637_6.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0058_637_7.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0058_637_8.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0058_637_9.wav"
+            ],
+            "class": "002.Laysan_Albatross",
+            "idx": 31,
+            "image": "002.Laysan_Albatross/Laysan_Albatross_0058_637.jpg",
+            "text": [
+                "the body of this bird is white but its wings and rump are dark brown.",
+                "this bird as a long white neck and beak, it's cheek is powdered with grey with it's wings and tail black with a light brown tip on each feather.",
+                "a larger water bird with white body, dark brown wings, and orange bill.",
+                "this bird has a white body, black and brown wing, and a long hooked bill.",
+                "medium to large white brown and black bird with long orange and black beak",
+                "this particular bird has a white belly and sides and dark brown secondaries",
+                "this bird has a belly that is white with brown secondaries",
+                "this bird has a long, hooked bill that is mostly orange with black at the tip, and while primarily white in color, it has brown wings.",
+                "this bird has a white crown and breast but dark brown wings and an orange bill.",
+                "a large white water bird with dark brown wings and long, hooked orange bill."
+            ]
+        },
+        {
+            "audio": [
+                "002.Laysan_Albatross/Laysan_Albatross_0028_643_0.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0028_643_1.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0028_643_2.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0028_643_3.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0028_643_4.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0028_643_5.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0028_643_6.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0028_643_7.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0028_643_8.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0028_643_9.wav"
+            ],
+            "class": "002.Laysan_Albatross",
+            "idx": 32,
+            "image": "002.Laysan_Albatross/Laysan_Albatross_0028_643.jpg",
+            "text": [
+                "a large bird with brown wings and back, and a white head and breast.",
+                "this is a white bird with a black wing and a pointy beak.",
+                "the head and neck of the bird is white and the wings are black while the beak is thick and curved.",
+                "this bird has a white belly and breast, long hooked bill, and black wings.",
+                "this larger bird is mostly white but has brown wings",
+                "white breasted bird with a black eyebrow and extra long tarsuses.",
+                "the bird has a large, hooked beak, a white head, throat, breast and belly, and dark brown wings and tail.",
+                "this large bird has white crown, a white bill, and black eyes.",
+                "this bird has wings that are black and has a white belly",
+                "this large white bird has black wings and a long bill curved downwards."
+            ]
+        },
+        {
+            "audio": [
+                "002.Laysan_Albatross/Laysan_Albatross_0033_658_0.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0033_658_1.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0033_658_2.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0033_658_3.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0033_658_4.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0033_658_5.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0033_658_6.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0033_658_7.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0033_658_8.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0033_658_9.wav"
+            ],
+            "class": "002.Laysan_Albatross",
+            "idx": 33,
+            "image": "002.Laysan_Albatross/Laysan_Albatross_0033_658.jpg",
+            "text": [
+                "the bill is light orange, long, and curved at the end, the head, neck, throat, chest and belly are white and the wings are dark grey.",
+                "a large bird with white crown and black eyebrow having large bill and black secondaries and primaries",
+                "this bird is black and white in color, with a orange beak and a black eye ring.",
+                "this is a white bird with an orange bill and black on the wingbars.",
+                "this bird has white body, black wing, and long hooked bill.",
+                "this bird has a white head, neck, belly, vent and tarsus, with black and grey feathers covering the rest of its body.",
+                "this bird has wings that are grey and has a white belly",
+                "this bird has a large white body with black wings and long beak",
+                "this bird has wings that are black and has a white belly",
+                "this bird has wings that are grey and has a white belly"
+            ]
+        },
+        {
+            "audio": [
+                "002.Laysan_Albatross/Laysan_Albatross_0075_668_0.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0075_668_1.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0075_668_2.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0075_668_3.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0075_668_4.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0075_668_5.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0075_668_6.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0075_668_7.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0075_668_8.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0075_668_9.wav"
+            ],
+            "class": "002.Laysan_Albatross",
+            "idx": 34,
+            "image": "002.Laysan_Albatross/Laysan_Albatross_0075_668.jpg",
+            "text": [
+                "this is a large white bird with black along the lower tips of the wings, and a long pointed beak.",
+                "this is a white bird with black wings and a large beak.",
+                "a small bird with a large wing span, it also has white feathers and black feathers on the tips of the wings.",
+                "this bird has a long wingspan and most its body consist of white with a black trim along its wings",
+                "this bird is white with black on its wings and has a long, pointy beak.",
+                "this bird has wings that are black and white and a long bill",
+                "a large bird with a white belly and white and black wings.",
+                "this large white bird has black on its wings and a sharp bill.",
+                "this bird has a wide wingspan and has white and black feathers covering the rest of it's body.",
+                "this bird has wings that are black and white and has a long bill"
+            ]
+        },
+        {
+            "audio": [
+                "002.Laysan_Albatross/Laysan_Albatross_0076_671_0.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0076_671_1.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0076_671_2.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0076_671_3.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0076_671_4.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0076_671_5.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0076_671_6.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0076_671_7.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0076_671_8.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0076_671_9.wav"
+            ],
+            "class": "002.Laysan_Albatross",
+            "idx": 35,
+            "image": "002.Laysan_Albatross/Laysan_Albatross_0076_671.jpg",
+            "text": [
+                "large white bird with grey wings and a yellow beak",
+                "this bird has a white head, a long hooked bill, and webbed feet",
+                "the bird has a white body with a grey rump and white webbed feet.",
+                "a large white bird with dark brown feathers on its wings, webbed feet and long beak.",
+                "this large white bird has webbed feet and a long white curved bill.",
+                "this particular bird has a white belly and breast and black secondaries",
+                "the bird has a curved tan bill, a white back and webbed feet.",
+                "this is a large white bird with webbed feet and black wings.",
+                "a large white bird with black wings and long yellow bill.",
+                "a large bird with a white head and long beak."
+            ]
+        },
+        {
+            "audio": [
+                "002.Laysan_Albatross/Laysan_Albatross_0096_673_0.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0096_673_1.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0096_673_2.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0096_673_3.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0096_673_4.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0096_673_5.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0096_673_6.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0096_673_7.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0096_673_8.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0096_673_9.wav"
+            ],
+            "class": "002.Laysan_Albatross",
+            "idx": 36,
+            "image": "002.Laysan_Albatross/Laysan_Albatross_0096_673.jpg",
+            "text": [
+                "this larger bird is duck-like and has a black and white body on which the black is mostly from the beginning of the wings on back throughout hthe rest of his body because the breast, neck and throat are white with the exception of a brown cheeck patch and his bill is yellow and long.",
+                "a medium to large grey and white duck with smokey black eyering and grey cheek patch.",
+                "this is a large bird with a white head, neck, breast and belly. it has a grey eyepatch. the bill is large and pointed down at the tip, it is orange and is about 2.5 times as long as the head",
+                "this bird has a white head and breast, a grey back and eye area, and an orange bill that ends in a downward curve.",
+                "a large bird with a curved neck, and a white and gray colored body.",
+                "this bird has wings that are black with a long orange beak",
+                "a white chest bird with a regularly sized head in comparison to the body.",
+                "this particular bird has a belly that is white with gray secondaries",
+                "a large white bird with gray wings, a short tail, a long neck, and a long beak with a downward curve.",
+                "this bird has a white crown, grey primaries, and a white belly."
+            ]
+        },
+        {
+            "audio": [
+                "002.Laysan_Albatross/Laysan_Albatross_0064_674_0.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0064_674_1.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0064_674_2.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0064_674_3.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0064_674_4.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0064_674_5.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0064_674_6.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0064_674_7.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0064_674_8.wav",
+                "002.Laysan_Albatross/Laysan_Albatross_0064_674_9.wav"
+            ],
+            "class": "002.Laysan_Albatross",
+            "idx": 37,
+            "image": "002.Laysan_Albatross/Laysan_Albatross_0064_674.jpg",
+            "text": [
+                "the bird is larger with white and black markings and a long curved beak.",
+                "this bird has a white body with black wings and a large tan-white bill with a black hooked tip.",
+                "this bird is white with black on its back and has a long, pointy beak.",
+                "bird with long and fat beak that is curved at tip, white crown, nape, breast, throat, belly and abdomen",
+                "a medium bird with a white head, neck, and body and a black rump and wings.",
+                "a medium sized bird with an all white head and breast, its wings are black, and the bill however is medium sized with a curven tip.",
+                "this bird has wings that are black and has a white belly",
+                "this is a large bird with black eyes and a white body and legs.",
+                "this bird is white and brown in color, and has a curved and light colored beak.",
+                "all white breast color, long curved bill, and bluish hue tarsus"
+            ]
+        }
+	]
+}

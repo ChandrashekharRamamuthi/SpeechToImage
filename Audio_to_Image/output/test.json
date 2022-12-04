@@ -1,0 +1,966 @@
+{
+    "audio_base_path": "./audio/0",
+    "audio_feature_path": "./test/audio_features_googlenet_caffe.pickle",
+    "image_base_path": "./images",
+    "image_feature_path": "./test/image_features_googlenet_caffe.pickle",
+    "data": [
+        {
+            "audio": [
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0046_18_0.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0046_18_1.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0046_18_2.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0046_18_3.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0046_18_4.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0046_18_5.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0046_18_6.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0046_18_7.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0046_18_8.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0046_18_9.wav"
+            ],
+            "class": "001.Black_footed_Albatross",
+            "idx": 0,
+            "image": "001.Black_footed_Albatross/Black_Footed_Albatross_0046_18.jpg",
+            "text": [
+                "light tan colored bird with a white head and an orange beak.",
+                "the bird has a very thick, curved, and beige beak",
+                "this bird has a long neck that is grainy and a pastel orange/blue narrow beak that droops down at the tip",
+                "this bird is light brown, has a long hooked bill, and looks dumb.",
+                "this large white bird has a large curved bill and a brown eye",
+                "this bird is white with grey and has a long, pointy beak.",
+                "this bird is white with grey and has a long, pointy beak.",
+                "the crown of the bird is white, with light brown tones throughout.",
+                "the crown of the bird has distinctive tones of white and brown throughout.",
+                "this bird has a long neck and an orange bill"
+            ]
+        },
+        {
+            "audio": [
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0009_34_0.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0009_34_1.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0009_34_2.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0009_34_3.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0009_34_4.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0009_34_5.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0009_34_6.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0009_34_7.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0009_34_8.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0009_34_9.wav"
+            ],
+            "class": "001.Black_footed_Albatross",
+            "idx": 1,
+            "image": "001.Black_footed_Albatross/Black_Footed_Albatross_0009_34.jpg",
+            "text": [
+                "the wings are brown, long and narrow, and have white markings on the secondaries, the bill is blunt tipped and black, the head is light brown with a white thin marking between the eye and the beak.",
+                "grey bird with black flat beak with grey and white big wings",
+                "the dark brown bird has black eye ring and black rectrices.",
+                "this bird's most distinct feature is its long, flat beak as well as its large wingspan.",
+                "a bird with a large black bill with downward curve, white superciliaries and brown plumage.",
+                "this bird has a large black bill with a white ring around the base of the bill.",
+                "this bird has wings that are black and has a long black bill",
+                "the bird has a curved black bill and two large brown wingbars.",
+                "this bird has a wide wing span covered in brown, grey and white feathers with a broad, blunt beak.",
+                "this bird has a brown crown, brown primaries, and a brown throat."
+            ]
+        },
+        {
+            "audio": [
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0002_55_0.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0002_55_1.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0002_55_2.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0002_55_3.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0002_55_4.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0002_55_5.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0002_55_6.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0002_55_7.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0002_55_8.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0002_55_9.wav"
+            ],
+            "class": "001.Black_footed_Albatross",
+            "idx": 2,
+            "image": "001.Black_footed_Albatross/Black_Footed_Albatross_0002_55.jpg",
+            "text": [
+                "the bird has head and beak proportional to its body and the bird is brown in color.",
+                "this bird has grey neck, head, wings and back, it has white around its bill, and a long tall bill that is curved and black at its tip.",
+                "this bird is brown in color with a long curved beak and dark eye rings.",
+                "this bird is grey with some white and has a long, pointy beak.",
+                "this is a solid brown bird with webbed feet and a long slightly hooked bill.",
+                "this particular bird has a brown body and brown bill",
+                "the brown colored albatross has white ring at the base of its beak, white undertail and white eyebrow.",
+                "this bird has wings that are brown and has a big bill",
+                "this bird is brown in color, with a large curved beak.",
+                "a large bird with a grey coloring and long beak."
+            ]
+        },
+        {
+            "audio": [
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0074_59_0.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0074_59_1.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0074_59_2.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0074_59_3.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0074_59_4.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0074_59_5.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0074_59_6.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0074_59_7.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0074_59_8.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0074_59_9.wav"
+            ],
+            "class": "001.Black_footed_Albatross",
+            "idx": 3,
+            "image": "001.Black_footed_Albatross/Black_Footed_Albatross_0074_59.jpg",
+            "text": [
+                "the bird has two large wingbars that are grey and white.",
+                "this large bird is grey with white near its tail and a long bill.",
+                "this large bird is brown and has a long slightly curved bill with a white rump.",
+                "bird with fat, long beak that is curved at the tip, black, eye, crown, nape, back, inner and outer rectrices",
+                "this bird has a brown crown, a flat bill, and a white cheek patch",
+                "this bird has wings that are grey and has a long bill",
+                "the bird has a curved brown bill that is long, two large wingbars and a long belly.",
+                "this bird is grey with long wings and has a long, pointy beak.",
+                "this large bird has brown colored feathers and a large bill.",
+                "this bird has large wings with stripes on the ends, a short tail, a large gray and white head, and a long beak with a downward curve."
+            ]
+        },
+        {
+            "audio": [
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0014_89_0.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0014_89_1.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0014_89_2.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0014_89_3.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0014_89_4.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0014_89_5.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0014_89_6.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0014_89_7.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0014_89_8.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0014_89_9.wav"
+            ],
+            "class": "001.Black_footed_Albatross",
+            "idx": 4,
+            "image": "001.Black_footed_Albatross/Black_Footed_Albatross_0014_89.jpg",
+            "text": [
+                "this flying bird has long brown wings and a black bill with a white stripe around it.",
+                "bird has brown body feathers, brown breast feathers, and brown thick beak",
+                "a large brown bird with white secondaries, a black bill and yellow eyes.",
+                "this bird is black with brown on its stomach and has a long, pointy beak.",
+                "this is a brown bird with a white eye and a long and pointy bill.",
+                "this bird is mostly dark grey and has a white ring around its bill.",
+                "this is a brown bird with an incredible wingspan and an extended bill for its size.",
+                "a large long bill, wide wing span dark brown bird with light beige tipped primaries.",
+                "the large bird has a black bill, crown and nape and long wings that have brown secondaries and black converts together with a brown belly and tail.",
+                "this bird is brown with black and has a long, pointy beak."
+            ]
+        },
+        {
+            "audio": [
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0085_92_0.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0085_92_1.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0085_92_2.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0085_92_3.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0085_92_4.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0085_92_5.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0085_92_6.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0085_92_7.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0085_92_8.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0085_92_9.wav"
+            ],
+            "class": "001.Black_footed_Albatross",
+            "idx": 5,
+            "image": "001.Black_footed_Albatross/Black_Footed_Albatross_0085_92.jpg",
+            "text": [
+                "a gull with rich brown feathers flies over the sea.",
+                "bird has brown body feathers, brown breast feathers, and brown beak",
+                "the bird has a wide wingspan and a body made of brown and white speckled feathers.",
+                "this bird is brown with white on its head and has a long, pointy beak.",
+                "a brown bird with a white head, black webbed feet, a long brown beak, and a big wingspan.",
+                "this bird has wings that are brown and has a white crown",
+                "this bird has wings that are brown and has a long bill",
+                "this large bird has large wings a white crown, and bright feathers.",
+                "this bird has wings that are brown and has a long bill",
+                "this bird has a spotted feathered brown body and wings and a white crown"
+            ]
+        },
+        {
+            "audio": [
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0031_100_0.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0031_100_1.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0031_100_2.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0031_100_3.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0031_100_4.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0031_100_5.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0031_100_6.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0031_100_7.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0031_100_8.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0031_100_9.wav"
+            ],
+            "class": "001.Black_footed_Albatross",
+            "idx": 6,
+            "image": "001.Black_footed_Albatross/Black_Footed_Albatross_0031_100.jpg",
+            "text": [
+                "a brown bird with white on the supercillary and a brown bill",
+                "this interesting bird has a long beak that is curved at it's end, and soft white and brown colored feathers.",
+                "a big brown bird with a brownish beak.",
+                "this bird has a long curved bill, and dark brown plumage with white accents beneath the eyes.",
+                "this bird has a brown crown and a long bill.",
+                "this bird is brown with white and has a long, pointy beak.",
+                "this bird has a long neck and has a long black bill",
+                "a dark grey bird with a large black bill.",
+                "a bird with a large rounded beak, a dark nape, and a light cheek patch.",
+                "this bird has wings that are brown and has a long neck"
+            ]
+        },
+        {
+            "audio": [
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0051_796103_0.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0051_796103_1.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0051_796103_2.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0051_796103_3.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0051_796103_4.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0051_796103_5.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0051_796103_6.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0051_796103_7.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0051_796103_8.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0051_796103_9.wav"
+            ],
+            "class": "001.Black_footed_Albatross",
+            "idx": 7,
+            "image": "001.Black_footed_Albatross/Black_Footed_Albatross_0051_796103.jpg",
+            "text": [
+                "a long bill that is brown, along with a crown that is white and a back that is dark brown.",
+                "a dark gray bird with a white crown and cheeks and a dark gray beak.",
+                "this bird has dark brown to black bill, has brown and black coverts and white crown.",
+                "this is a large, brown and black bird with white on the crown and cheek patches.",
+                "bird with long and curved beak that is brow, and black eye with rest of the body covered in brown with little portion around the beak in white",
+                "this bird is all brown with slight cream colored speckles along its neck , except for its face and crown which is white.",
+                "this particular bird has a belly that is brown and a brown beak",
+                "this bird has a rounded beak with a tip on the end protruding downward.",
+                "this brown bird has a distinctive long sharp bill and this is a large bird.",
+                "a large bird with a long black beak and a silver face."
+            ]
+        },
+        {
+            "audio": [
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0010_796097_0.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0010_796097_1.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0010_796097_2.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0010_796097_3.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0010_796097_4.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0010_796097_5.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0010_796097_6.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0010_796097_7.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0010_796097_8.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0010_796097_9.wav"
+            ],
+            "class": "001.Black_footed_Albatross",
+            "idx": 8,
+            "image": "001.Black_footed_Albatross/Black_Footed_Albatross_0010_796097.jpg",
+            "text": [
+                "here we have a bird soaring above the water and it's color is dark brown, he seems to have a long dark colored bill with a white ring around it on the upper part near the bill.",
+                "this large bird is black all over, with a large flattened bill.",
+                "a large bird covered n green feathers except for the bits of white on the edges of its wings, and the circle around its bill.",
+                "this is a large grey bird with a large grey beak.",
+                "this bird is brown and has a black bill with a white bit surrounding it.",
+                "this bird has uniformly brown plumage, with a white ring around the base of its long, brown beak.",
+                "this bird has wings that are brown and has a thick bill",
+                "this dark brown bird has long, angular wings, short rectrices, and a blunt, medium length black bill.",
+                "this bird has a large beak and is brown with a white ring on its face.",
+                "a large brown and black bird with large thick bill has white stripe along bill."
+            ]
+        },
+        {
+            "audio": [
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0025_796057_0.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0025_796057_1.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0025_796057_2.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0025_796057_3.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0025_796057_4.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0025_796057_5.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0025_796057_6.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0025_796057_7.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0025_796057_8.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0025_796057_9.wav"
+            ],
+            "class": "001.Black_footed_Albatross",
+            "idx": 9,
+            "image": "001.Black_footed_Albatross/Black_Footed_Albatross_0025_796057.jpg",
+            "text": [
+                "black medium sized bird with a white malar stripe and medium sized, flat bill.",
+                "a large bird with dark brown covering its entire body except for its breast, belly throat and face, which are dark grey, and the ring around its bill which is white. this bird also has a small white cheek patch.",
+                "this bird is black in color with a large rounded black beak and black eye ring.",
+                "this is a greyish-brown goose-sized bird, the beak is large and black, thicker than most waterfowl's beaks, there ring of white feathers at the base of the beak and a white patch behind the eye.",
+                "the birds has a black overall color with a patch of white on the base of it's bill.",
+                "this bird has a very unique body shape and color tint which is a very dark form of matte gray.",
+                "this is a large bird with a mostly black bird with some white on its head and tail.",
+                "this bird is black with white and has a long, pointy beak.",
+                "this medium-sized bird has a large bill, dark brown wings, and black eyes.",
+                "this large bird has a distinctive curved bill, white markings on its eyebrows and face, and a dark gray body."
+            ]
+        },
+        {
+            "audio": [
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0023_796059_0.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0023_796059_1.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0023_796059_2.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0023_796059_3.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0023_796059_4.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0023_796059_5.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0023_796059_6.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0023_796059_7.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0023_796059_8.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0023_796059_9.wav"
+            ],
+            "class": "001.Black_footed_Albatross",
+            "idx": 10,
+            "image": "001.Black_footed_Albatross/Black_Footed_Albatross_0023_796059.jpg",
+            "text": [
+                "this bird is almost completely dark gray, it has a light gray crown.",
+                "this bird has a curved black bill, a brown breast, and a white crown.",
+                "a dark gray bird with long skinny wings and a white head.",
+                "brown bird with extremely long winspan and a white crown.",
+                "this bird has very long wings and is a water bird with white on its head.",
+                "this particular bird has a large wingspan and a patch of white on its face",
+                "this bird is brown with black and has a very short beak.",
+                "a beautiful bird in flight with dark body and white head.",
+                "this black bird has a white crown and large wingspan relative to its body.",
+                "this bird has a black bill and broad, grey wings and a grey body."
+            ]
+        },
+        {
+            "audio": [
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0086_796062_0.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0086_796062_1.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0086_796062_2.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0086_796062_3.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0086_796062_4.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0086_796062_5.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0086_796062_6.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0086_796062_7.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0086_796062_8.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0086_796062_9.wav"
+            ],
+            "class": "001.Black_footed_Albatross",
+            "idx": 11,
+            "image": "001.Black_footed_Albatross/Black_Footed_Albatross_0086_796062.jpg",
+            "text": [
+                "this bird is predominately grey with a large, curved, grey beak.",
+                "this bird has a long wing, a brown crown, and a large flat bill.",
+                "this is a large dark grey bird with a large beak.",
+                "mostly brownish grey with white streaks on its primaries, and a white superciliary.",
+                "this brown bird has a unique, curved bill with a broad wingspan and short tail feathers.",
+                "this bird has wings that are brown and has a long bill",
+                "this bird has brown and tan colored feathers covering its entire body except for the white stripe around its bill.",
+                "a medium sized grey bird, with a slightly curved bill.",
+                "this bird has a large wing span, and a brown body.",
+                "small medium bird with large brown wings, all brown body with a very short stubby tail and a medium beak curved at the end."
+            ]
+        },
+        {
+            "audio": [
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0049_796063_0.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0049_796063_1.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0049_796063_2.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0049_796063_3.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0049_796063_4.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0049_796063_5.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0049_796063_6.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0049_796063_7.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0049_796063_8.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0049_796063_9.wav"
+            ],
+            "class": "001.Black_footed_Albatross",
+            "idx": 12,
+            "image": "001.Black_footed_Albatross/Black_Footed_Albatross_0049_796063.jpg",
+            "text": [
+                "a greyish-blue colored bird with a white-grey face, and big blue feet.",
+                "this is a medium bird, grey with webbed feet, long legs and long neck, darker grey on the back of the head and crown, and a long sturdy beak.",
+                "a fairly large bird with long tarsus and webbed feet and a thick bill.",
+                "the bird has a white eyepatch that fades into black as well as deep black eyes and a long bill that droops toward the tip",
+                "this grey bird has a black grown and white cheek patches, a bill that points sharply downward at the end, and black webbed feet.",
+                "a tall grey bird with a long beak that has a curve to it, very long legs with feet that are webbed.",
+                "this bird has wings that are blue and has black feet",
+                "this particular bird has a belly that is blue and gray with blue legs and feet",
+                "this particular bird has a belly that is white and gray",
+                "this is a bird that looks like a duck in the shape of its body and its feet."
+            ]
+        },
+        {
+            "audio": [
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0006_796065_0.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0006_796065_1.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0006_796065_2.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0006_796065_3.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0006_796065_4.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0006_796065_5.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0006_796065_6.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0006_796065_7.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0006_796065_8.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0006_796065_9.wav"
+            ],
+            "class": "001.Black_footed_Albatross",
+            "idx": 13,
+            "image": "001.Black_footed_Albatross/Black_Footed_Albatross_0006_796065.jpg",
+            "text": [
+                "this large bird has a buff colored belly, a long heavy beak on a white-fronted face , and long, dark brown wings.",
+                "this bird has a large, curved, gray bill, a white cheek patch, and a gray breast and belly.",
+                "a medium sized bird with a grey body and a bill that curves down wards",
+                "this gray bird has black wings and a white head, and a long beak.",
+                "this bird is black and brown in color with a curved black beak, and black eye rings.",
+                "the black wings have brown wingbars, the bill is short and pointed, and the head is small compared to the body.",
+                "this bird has brown and white wings, grey breast, belly and vent, and a white ring around its bill.",
+                "this bird has wings that are grey and has a long black bill",
+                "a large bird with large wings and bill.",
+                "this bird has a slight hook shaped beak and a wide wing span, it's body is a light brown color."
+            ]
+        },
+        {
+            "audio": [
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0040_796066_0.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0040_796066_1.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0040_796066_2.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0040_796066_3.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0040_796066_4.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0040_796066_5.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0040_796066_6.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0040_796066_7.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0040_796066_8.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0040_796066_9.wav"
+            ],
+            "class": "001.Black_footed_Albatross",
+            "idx": 14,
+            "image": "001.Black_footed_Albatross/Black_Footed_Albatross_0040_796066.jpg",
+            "text": [
+                "the bird has a long bill that is curved at the end, and the feathers are a light gray color.",
+                "this bird is almost completely gray with a long hooked bill.",
+                "this is a grey bird with black wings and a pointy beak.",
+                "a grey bird with large wings and a long beak.",
+                "this bird is grey and has a very large wing span with a very long beak.",
+                "the bird has a long tan bill, large brown wings, and a tan breast.",
+                "this large bird has a dark gray belly, dark gray wings and a gray bill.",
+                "this particular bird has a belly that is gray and has black wings",
+                "this bird has wings that are brown and has a long bill",
+                "this particular bird has a belly that is gray and brown"
+            ]
+        },
+        {
+            "audio": [
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0016_796067_0.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0016_796067_1.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0016_796067_2.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0016_796067_3.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0016_796067_4.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0016_796067_5.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0016_796067_6.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0016_796067_7.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0016_796067_8.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0016_796067_9.wav"
+            ],
+            "class": "001.Black_footed_Albatross",
+            "idx": 15,
+            "image": "001.Black_footed_Albatross/Black_Footed_Albatross_0016_796067.jpg",
+            "text": [
+                "this brown bird has a wide wingspan and a beak made for catching fish",
+                "this bird has a very large curved bill, a white cheek patch, and a brown gray crown.",
+                "a large black bird with a long black bill and white cheek patch.",
+                "this bird has a brown crown, a brown bill, and a brown back",
+                "this large bird is almost all grey with a long hooked bill.",
+                "a black color bird with long wings and the beak is long and flat",
+                "this bird has wings that are gray and has a black bill",
+                "the bird has a brown and grey body, with brown and grey wings, a brown and grey head, and a blunt grey beak.",
+                "this bird is brown in color, with a large brown beak.",
+                "this bird has a greyish colored, downward-curved beak and it also has a brownish colored crown."
+            ]
+        },
+        {
+            "audio": [
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0065_796068_0.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0065_796068_1.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0065_796068_2.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0065_796068_3.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0065_796068_4.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0065_796068_5.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0065_796068_6.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0065_796068_7.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0065_796068_8.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0065_796068_9.wav"
+            ],
+            "class": "001.Black_footed_Albatross",
+            "idx": 16,
+            "image": "001.Black_footed_Albatross/Black_Footed_Albatross_0065_796068.jpg",
+            "text": [
+                "this bird has a very long beak is gray and white in color and has very long wings and short little legs",
+                "bird has brown body feathers, brown breast feathers, and brown beak",
+                "the bird is brown with a thick curved bill and a white inner rectrices.",
+                "this bird is brown with white on its tail and has a long, pointy beak.",
+                "gray bird with black bill and webbed feet, also with white under feathers.",
+                "a brown bird with white feathers on its tail with a large black bill.",
+                "a large bird with brown wings, throat, breast and belly and a white vent.",
+                "large coastal bird all brownish tan, long wide beak, web feet",
+                "big bodied, wide-width wings and sleek feathered bird with large thick bill.",
+                "this bird has dark wings, black, white, and grey, short longs and long neck"
+            ]
+        },
+        {
+            "audio": [
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0089_796069_0.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0089_796069_1.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0089_796069_2.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0089_796069_3.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0089_796069_4.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0089_796069_5.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0089_796069_6.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0089_796069_7.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0089_796069_8.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0089_796069_9.wav"
+            ],
+            "class": "001.Black_footed_Albatross",
+            "idx": 17,
+            "image": "001.Black_footed_Albatross/Black_Footed_Albatross_0089_796069.jpg",
+            "text": [
+                "a tan and bird with a large wingspan, and a tan beak",
+                "gray bodied bird with a white rump and medium length bill.",
+                "this is a brown bird with long wings and a large beak.",
+                "this bird is brown with white on its head and has a long, pointy beak.",
+                "this large bird features a large wingspan and a blunt-tipped beak.",
+                "this bird has brown and grey wings, and brown and white swirled feathers covering the majority of its body",
+                "this bird is brown in color, with a large curved beak.",
+                "this bird is brown in color, with a large curved beak.",
+                "this bird has wings that are brown and has an orange bill",
+                "a large bird with a brown coloring and thick beak."
+            ]
+        },
+        {
+            "audio": [
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0042_796071_0.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0042_796071_1.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0042_796071_2.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0042_796071_3.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0042_796071_4.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0042_796071_5.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0042_796071_6.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0042_796071_7.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0042_796071_8.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0042_796071_9.wav"
+            ],
+            "class": "001.Black_footed_Albatross",
+            "idx": 18,
+            "image": "001.Black_footed_Albatross/Black_Footed_Albatross_0042_796071.jpg",
+            "text": [
+                "this grey and black bird has a long bill with a grey head.",
+                "a large bird with a dark eye, long gray bill, and gray thighs.",
+                "this bird has a long gray neck, a thick bill, and dark gray wings and tail.",
+                "this bird is brown with a white head and has a long, pointy beak.",
+                "gray bird with black bill and white crown and black feathers with white wingbars.",
+                "this large aquatic bird has a large black beak, long neck with gray belly and crown.",
+                "this bird has wings that are brown and has a long bill",
+                "this bird has brown and white coverts, grey flank, and black on its rump .",
+                "the bird has a curved bill that is black and large.",
+                "this brown water bird has a large and wide bill with a white superciliary and cheek with a longer body and rump."
+            ]
+        },
+        {
+            "audio": [
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0067_170_0.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0067_170_1.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0067_170_2.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0067_170_3.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0067_170_4.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0067_170_5.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0067_170_6.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0067_170_7.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0067_170_8.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0067_170_9.wav"
+            ],
+            "class": "001.Black_footed_Albatross",
+            "idx": 19,
+            "image": "001.Black_footed_Albatross/Black_Footed_Albatross_0067_170.jpg",
+            "text": [
+                "the bird has a curved bill that is white and long.",
+                "bird has brown body feathers,brown breast feather, and thick beak",
+                "this magestic creature looks like it is soaring through the air at a zoo exhibit.",
+                "a bird with a long wingspan and a long beak with a bill curves downward at the end.",
+                "this bird is brown with white on its stomach and has a long, pointy beak.",
+                "this bird is brown with white and has a long, pointy beak.",
+                "this bird has wings that are tan and has a large bill",
+                "this bird is brown with white and has a long, pointy beak.",
+                "this particular bird has a belly that is tan and white",
+                "this bird is brown with white and has a long, pointy beak."
+            ]
+        },
+        {
+            "audio": [
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0060_796076_0.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0060_796076_1.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0060_796076_2.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0060_796076_3.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0060_796076_4.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0060_796076_5.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0060_796076_6.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0060_796076_7.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0060_796076_8.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0060_796076_9.wav"
+            ],
+            "class": "001.Black_footed_Albatross",
+            "idx": 20,
+            "image": "001.Black_footed_Albatross/Black_Footed_Albatross_0060_796076.jpg",
+            "text": [
+                "this is a bird with black feathers and a grey head.",
+                "this bird is black with grey and white on its head with a tan beak.",
+                "a large brown colored bird with a long beak",
+                "this bird is brown and black in color with a curved beak, and black eye rings.",
+                "a medium sized bird with a black back, grey nape and crown and a slightly darker grey long bill that is curved down slightly at the tip",
+                "the duck is swimming in the blue water. the duck is gray with a hint of while near it's bill. the bill is a lighter shade of gray. the duck is alone.",
+                "this bird is black with grey and has a long, pointy beak.",
+                "duck with brown body brown head.",
+                "a medium sized bird with black feathers and a gray head.",
+                "this bird is a medium size with blackish feathers, a brownish neck and head with a long curved beak at the end."
+            ]
+        },
+        {
+            "audio": [
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0090_796077_0.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0090_796077_1.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0090_796077_2.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0090_796077_3.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0090_796077_4.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0090_796077_5.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0090_796077_6.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0090_796077_7.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0090_796077_8.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0090_796077_9.wav"
+            ],
+            "class": "001.Black_footed_Albatross",
+            "idx": 21,
+            "image": "001.Black_footed_Albatross/Black_Footed_Albatross_0090_796077.jpg",
+            "text": [
+                "a bird with a large, hooked bill, white superciliary and cheek patch, brown crown, and brown body.",
+                "the bird has brown and black coverts and white crown and cheek patch.",
+                "medium sized bird with a stout beak and brown and white feathers.",
+                "this bird has a brown mottled appearance with a long hooked bill.",
+                "a medium sized bird that has tones of brown and a medium sized bill",
+                "this brown bird has a pink and gray beak that slightly points downwards at the tip.",
+                "this bird has a long bill, while is body is covered in different shades of brown.",
+                "this bird has a long brown bill and is brown all over.",
+                "this bird has wings that are brown and has a long neck",
+                "this is a medium sized brown bird, with a white face, and a long bill."
+            ]
+        },
+        {
+            "audio": [
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0056_796078_0.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0056_796078_1.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0056_796078_2.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0056_796078_3.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0056_796078_4.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0056_796078_5.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0056_796078_6.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0056_796078_7.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0056_796078_8.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0056_796078_9.wav"
+            ],
+            "class": "001.Black_footed_Albatross",
+            "idx": 22,
+            "image": "001.Black_footed_Albatross/Black_Footed_Albatross_0056_796078.jpg",
+            "text": [
+                "a mostly brown bird with a white face and a brown beak.",
+                "a mostly brown colored bird with white head and long beak",
+                "the bird has brown coverts, black bill and light brown crown.",
+                "a fully brown bird with brown legs and a brown duck shaped bill.",
+                "a grey duck with a lighter speckled pattern near the base of the bill.",
+                "this bird is brown with white and has a long, pointy beak.",
+                "this is a large beautiful bird, with strong looking features, including black tarsus and thighs, a strong flat brown large bill, brown feathers in various shades of brown, but whiter near the bill, and with dark brown small eyes.",
+                "this particular bird has a belly that is brown and tan and white",
+                "the bird is light brown in color and has a head that is brown with a thick bill.",
+                "this bird has a brown crown, brown primaries, and a brown belly."
+            ]
+        },
+        {
+            "audio": [
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0061_796082_0.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0061_796082_1.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0061_796082_2.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0061_796082_3.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0061_796082_4.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0061_796082_5.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0061_796082_6.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0061_796082_7.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0061_796082_8.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0061_796082_9.wav"
+            ],
+            "class": "001.Black_footed_Albatross",
+            "idx": 23,
+            "image": "001.Black_footed_Albatross/Black_Footed_Albatross_0061_796082.jpg",
+            "text": [
+                "medium sized tan bird with dark brown feathers on the top, and a white head that has a black stripe by its eye.",
+                "this larger sized bird looks metallic with its variations of grays all over its body, sitting afloat with a large gray beak.",
+                "this bird has a long bill, a white crown, and black eyebrow.",
+                "this bird is brown in color with a long curved beak, and black eye rings.",
+                "this bird has a long flat bill, a long neck, and a grey crown",
+                "this bird is brown with white and has a long, pointy beak.",
+                "this bird is brown with a long neck and has a long, pointy beak.",
+                "this particular bird has a belly that is gray and brown",
+                "this bird is brown with a brown beak and dark brown feathers.",
+                "this bird has a brown crown, brown primaries, and a brown throat."
+            ]
+        },
+        {
+            "audio": [
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0008_796083_0.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0008_796083_1.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0008_796083_2.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0008_796083_3.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0008_796083_4.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0008_796083_5.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0008_796083_6.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0008_796083_7.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0008_796083_8.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0008_796083_9.wav"
+            ],
+            "class": "001.Black_footed_Albatross",
+            "idx": 24,
+            "image": "001.Black_footed_Albatross/Black_Footed_Albatross_0008_796083.jpg",
+            "text": [
+                "the bird has a long black bill that is somewhat curved.",
+                "the bird has a long black bill that is curved as well.",
+                "this grey bird has an impressive wingspan, a grey bill, and a white stripe that surrounds the feathers near the bill.",
+                "this large bird is mostly grey with a long hooked bill.",
+                "bird with long fat beak that is curved at tip, and the head is proportional to its body size with whole body covered in black",
+                "large bird that is complete brown, with white stripes littering it's wings and a long blunted bill.",
+                "a black bird with very long wings and short tail, black beak with some white markings on the face around the beak and eyes",
+                "this bird is all black and has a long, pointy beak.",
+                "this appears to be a large bird that is almost completely black. it also has a very large black bill with slight white on the face and crown.",
+                "this bird has long triangular wings and a thick heavy beak."
+            ]
+        },
+        {
+            "audio": [
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0033_796086_0.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0033_796086_1.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0033_796086_2.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0033_796086_3.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0033_796086_4.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0033_796086_5.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0033_796086_6.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0033_796086_7.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0033_796086_8.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0033_796086_9.wav"
+            ],
+            "class": "001.Black_footed_Albatross",
+            "idx": 25,
+            "image": "001.Black_footed_Albatross/Black_Footed_Albatross_0033_796086.jpg",
+            "text": [
+                "this bird is nearly all gray with a white strip on its crown.",
+                "this bird has a grey crown, a long black bill, and a grey back.",
+                "this is a large grey bird with a large grey beak.",
+                "this large bill is mostly grey with a long hooked bill.",
+                "this sleek aquatic bird has feathers and beak in shades of gray with white undertones on it's belly.",
+                "this is a grey bird that has a grey bill with a sharp, black, tip that is pointing downward.",
+                "this large grey bird has lighter shades of grey on it's primaries and a long straight bill that curves downward.",
+                "this bird is gray in color, with a large curved beak.",
+                "this bird has a brown crown as well as a long brown bill",
+                "a large bird with a long thick beak."
+            ]
+        },
+        {
+            "audio": [
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0024_796089_0.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0024_796089_1.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0024_796089_2.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0024_796089_3.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0024_796089_4.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0024_796089_5.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0024_796089_6.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0024_796089_7.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0024_796089_8.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0024_796089_9.wav"
+            ],
+            "class": "001.Black_footed_Albatross",
+            "idx": 26,
+            "image": "001.Black_footed_Albatross/Black_Footed_Albatross_0024_796089.jpg",
+            "text": [
+                "the bird is brown with a crooked black beak and a large wingspan.",
+                "bird has brown body feathers, brown breast feather, and thick beak",
+                "this is a large brown bird with a large black beak.",
+                "this large bird is brown with a very large black beak.",
+                "this bird is brown in color with a curved black beak, and black eye rings.",
+                "this bird has wings that are brown and has a long bill",
+                "this particular bird has a belly that is brown and white",
+                "this is a large brown and white bird, with large wings, a short tail, and a wide black beak that curves downward.",
+                "this bird has wings that are black and has a thcik bill",
+                "this bird has a brown body and a long wingspan."
+            ]
+        },
+        {
+            "audio": [
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0005_796090_0.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0005_796090_1.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0005_796090_2.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0005_796090_3.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0005_796090_4.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0005_796090_5.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0005_796090_6.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0005_796090_7.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0005_796090_8.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0005_796090_9.wav"
+            ],
+            "class": "001.Black_footed_Albatross",
+            "idx": 27,
+            "image": "001.Black_footed_Albatross/Black_Footed_Albatross_0005_796090.jpg",
+            "text": [
+                "the gray bird has a light grey head and grey webbed feet.",
+                "this bird has a large, straight bill, large black feet, and a white and gray crown.",
+                "a large flying bird with and all grey body, long dark wings, webbed feet, and a long sharp bill.",
+                "a medium bird with a gray body, feet,wings and bill.",
+                "this bird is black with white on its tail and has a long, pointy beak.",
+                "this is a very large charcoal colored bird with a huge wing span and webbed feet.",
+                "this bird has wings that are brown and has a long bill",
+                "this large black bird has a long wingspan and webbed feet.",
+                "this bird has large feet and a broad wingspan with all grey coloration",
+                "this bird has large, black, webbed feet, and is covered in gray plumage."
+            ]
+        },
+        {
+            "audio": [
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0026_796095_0.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0026_796095_1.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0026_796095_2.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0026_796095_3.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0026_796095_4.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0026_796095_5.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0026_796095_6.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0026_796095_7.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0026_796095_8.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0026_796095_9.wav"
+            ],
+            "class": "001.Black_footed_Albatross",
+            "idx": 28,
+            "image": "001.Black_footed_Albatross/Black_Footed_Albatross_0026_796095.jpg",
+            "text": [
+                "this bird is nearly all gray with a blunt beak.",
+                "this bird has a long black covert with a white ring around its bill.",
+                "bird has black feathers and very wide wingspan and large beak",
+                "this bird has dark wings, a dark tail, and a dark white beak.",
+                "the birds wingspan appears to be 4x the length of the body, the wings are brown and the feet are webbed.",
+                "this bird is all black and has a long, pointy beak.",
+                "this bird is black in color, with a long rounded beak.",
+                "this bird has wings that are black and has a long bill",
+                "this bird has wings that are black and has a long bill",
+                "this bird has long, triangular wings, webbed feet, and black feathers."
+            ]
+        },
+        {
+            "audio": [
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0080_796096_0.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0080_796096_1.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0080_796096_2.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0080_796096_3.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0080_796096_4.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0080_796096_5.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0080_796096_6.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0080_796096_7.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0080_796096_8.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0080_796096_9.wav"
+            ],
+            "class": "001.Black_footed_Albatross",
+            "idx": 29,
+            "image": "001.Black_footed_Albatross/Black_Footed_Albatross_0080_796096.jpg",
+            "text": [
+                "a large bird has brown wings with white wingbars, and long black tarsus'.",
+                "this bird is black in color with a long curved beak and black eye rings.",
+                "this bird is black with big wings and has a long, pointy beak.",
+                "this bird has a black overall body color aside from a white line around it's bill.",
+                "this bird is black in color with a black curved beak, and white eye rings.",
+                "this bird is all black and has a long, pointy beak.",
+                "medium size dark brown bird with big feet and large wing span.",
+                "this is a loarge bird, with a large wingspan, it has a large bill and is a dark brown color.",
+                "this particular bird has a belly that is black and brown",
+                "this bird is black with white and has a long, pointy beak."
+            ]
+        },
+        {
+            "audio": [
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0047_796064_0.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0047_796064_1.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0047_796064_2.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0047_796064_3.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0047_796064_4.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0047_796064_5.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0047_796064_6.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0047_796064_7.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0047_796064_8.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0047_796064_9.wav"
+            ],
+            "class": "001.Black_footed_Albatross",
+            "idx": 30,
+            "image": "001.Black_footed_Albatross/Black_Footed_Albatross_0047_796064.jpg",
+            "text": [
+                "the bird is brown with a white ring around the beak and a brown curved beak.",
+                "this bird is brown with a long wingspan and has a very short beak.",
+                "this bird contains a large wing span, and a variety of brown and grey shades on its feathers covering its entire body.",
+                "the beak is of medium long proportion and hooks slightly downward.",
+                "this bird is mostly grey with a long hooked bill.",
+                "the long wings spreaded showing the breast and the belly of the large bird",
+                "this is a brown bird, with a medium hooked beak and a partial white eyering.",
+                "this soaring bird has a long wingspan and a off-brown belly. it has a long, slender, curved bill.",
+                "a bird with brown feathers and a broad wingspan with a slightly curved beak.",
+                "this bird has wings that are grey and has a yellow bill"
+            ]
+        },
+        {
+            "audio": [
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0017_796098_0.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0017_796098_1.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0017_796098_2.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0017_796098_3.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0017_796098_4.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0017_796098_5.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0017_796098_6.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0017_796098_7.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0017_796098_8.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0017_796098_9.wav"
+            ],
+            "class": "001.Black_footed_Albatross",
+            "idx": 31,
+            "image": "001.Black_footed_Albatross/Black_Footed_Albatross_0017_796098.jpg",
+            "text": [
+                "this is mostly brown bird with webbed feet that are also brown.",
+                "this is a gray bird with black feet and a white bill",
+                "this is a grey bird with black feet and a large beak.",
+                "the bird spreads its wings while gliding over the surface of the water.",
+                "a bird with grey tarsus and webbed feet, the bill is long and curved, with a grey belly and breast",
+                "a very big bird with agrayish colored body, a very large wingspan and very large feet.",
+                "this bird has wings that are gray and has a long bill",
+                "this big bird has two large wings, a large and thick beak, and very big feet.",
+                "this bird has a grey bill with grey crown and grey webbed feet.",
+                "this bird has wings that are grey and hgas a long bill"
+            ]
+        },
+        {
+            "audio": [
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0064_796101_0.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0064_796101_1.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0064_796101_2.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0064_796101_3.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0064_796101_4.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0064_796101_5.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0064_796101_6.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0064_796101_7.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0064_796101_8.wav",
+                "001.Black_footed_Albatross/Black_Footed_Albatross_0064_796101_9.wav"
+            ],
+            "class": "001.Black_footed_Albatross",
+            "idx": 32,
+            "image": "001.Black_footed_Albatross/Black_Footed_Albatross_0064_796101.jpg",
+            "text": [
+                "the bird has a long black bill that is curved and black eyering.",
+                "the bird has a curved bill that is black and grey.",
+                "this black bird has a long black beak with long wings.",
+                "this is a black and white bird with a white eyering",
+                "this large shorebird is all grey with white highlights in the face and tail, the wings are long and narrow and the bill is long and thick.",
+                "this bird has wings that are black and has a long bill",
+                "this bird has wings that are black and has a long bill",
+                "this bird has a grey bill with black crown and long black wings",
+                "this black bird has very long wings with a long bill and white rump",
+                "a black bird with a gray cheek patch and small gray beak."
+            ]
+        }
+       
+    ]
+}
